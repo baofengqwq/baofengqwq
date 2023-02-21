@@ -1,22 +1,16 @@
 # Hi, I’m baofeng.
 
-### I'm from China.
-
-I'm a middle school student.
-
 ---
-Like to play:
-> STM32
-> 
-> ESP32
-> 
-> ESP8266
 
-#### And so on!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baofengqwq&show_icons=true&theme=transparent&count_private=true)
 
 ---
 
-## so
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baofengqwq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baofengqwq&repo=BDBot&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 Can you give me a star for my repositories?
 
 :heart:

@@ -1,4 +1,6 @@
-# Hi, I’m baofeng.
+## Hi, I’m baofeng.
+---
+📄 **A student**
 
 ---
 
@@ -6,8 +8,8 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baofengqwq&repo=BDBot&show_owner)](https://github.com/baofengqwq/BDBot)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baofengqwq&layout=compact)](https://github.com/baofengqwq/baofengqwq)
+* ✉️ My Email: [baofengqwq@163.com](http://mail.163.com)
+* 📝 My Blog: [baofeng's blog](https://cloudbaofeng.top) (仍在搭建设计中/Still building the design)
 
 ---
 

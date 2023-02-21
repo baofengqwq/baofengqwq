@@ -6,7 +6,7 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baofengqwq&repo=BDBot)](https://github.com/baofengqwq/BDBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baofengqwq&repo=BDBot&show_owner)](https://github.com/baofengqwq/BDBot)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baofengqwq&layout=compact)](https://github.com/baofengqwq/baofengqwq)
 
 ---

@@ -2,14 +2,14 @@
 
 📄 **A student**
 
-🚀 **From China**
+🌱 **From China**
 
 ---
 🌻Because we don't know when we will die,
  we get to think of life as an inexhaustible well.
 
 🌻因为我们不知道死亡何时到达
- 所以会把生命当成一座永不干涸的井
+ 所以会把生命当成一座永不干涸的井.
                       
  ######         --- *《The Sheltering Sky》*
 ---

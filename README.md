@@ -18,7 +18,7 @@
 
 ---
 * ✉️ My Email: [baofengqwq@163.com](http://mail.163.com)
-* 📝 My Blog: [baofeng's blog](https://bao-feng.me)  备用网址 Alternate website:baofengqwq.github.io (仍在搭建设计中/Still building the design)
+* 📝 My Blog: [baofeng's blog](https://bao-feng.me)  [备用网址 Alternate website](https://baofengqwq.github.io) (仍在搭建设计中/Still building the design)
 ---
 Can you give me a star for my repositories?
 

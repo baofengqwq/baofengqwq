@@ -18,9 +18,9 @@
 
 ---
 * ✉️ My Email: [baofengqwq@163.com](http://mail.163.com)
-* 📝 My Blog: [baofeng's blog](https://bao-feng.me)  [备用网址 Alternate website](https://baofengqwq.github.io) (仍在搭建设计中/Still building the design)
+* 📝 My Blog: [baofeng's blog](https://bao-feng.top)  [备用网址 Alternate website](https://baofengqwq.github.io) 
  
-*blog网址将会在四月将**bao-feng.me**域名替换为**bao-feng.top**域名*
+*blog网址已经将**bao-feng.me**域名替换为**bao-feng.top**域名*
 ---
 Can you give me a star for my repositories?
 

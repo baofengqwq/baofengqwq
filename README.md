@@ -8,7 +8,7 @@
 
 ---
 * ✉️ My Email: [baofeng@bao-feng.top](mailto:baofeng@bao-feng.top)
-* 📝 My Website: [baofeng's blog](https://bao-feng.top)  
+* 📝 My Blog: [baofeng's blog](https://bao-feng.top)  
 ---
 Can you give me a star for my repositories?
 
